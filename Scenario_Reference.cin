@@ -1,10 +1,11 @@
 Additional Minimum Required EV Sales Percentage[passenger,LDVs] = 0.43
 Additional Minimum Required EV Sales Percentage[passenger,HDVs] = 0.05
+Fraction of Additional Grid Battery Storage Potential Achieved = 0.2
 Fraction of Methane Capture Opportunities Achieved[natural gas and petroleum systems] = 0.015
+Percentage Increase in Transmission Capacity vs BAU = 0.5
 Policy Implementation Schedule Selector = 4
 Reduction in E Use Allowed by Component Eff Std[lighting,urban residential] = 0.4
 Reduction in E Use Allowed by Component Eff Std[lighting,rural residential] = 0.4
 Reduction in E Use Allowed by Component Eff Std[lighting,commercial] = 0.4
 Reduction in E Use Allowed by Component Eff Std[appliances,commercial] = 0.076
-Renewable Portfolio Std Percentage = .97
-
+Renewable Portfolio Std Percentage = 0.97
