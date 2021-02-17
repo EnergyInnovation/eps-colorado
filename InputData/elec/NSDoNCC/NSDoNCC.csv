@@ -1,17 +1,17 @@
 Electricity Source,Norm St Dev of New Capital Costs (dimensionless)
-hard coal,0.118
-natural gas nonpeaker,0.116
-nuclear,0.230
-hydro,0.632
-onshore wind,0.174
-solar pv,0.083
-solar thermal,0.120
-biomass,0.297
-geothermal,0.196
-petroleum,0.116
-natural gas peaker,0.370
-lignite,0.118
-offshore wind,0.174
-crude oil,0.116
-heavy or residual fuel oil,0.116
-municipal solid waste,0.297
+hard coal,0.11767526995465394
+natural gas nonpeaker,0.11586187975255104
+nuclear,0.22951832790705273
+hydro,0.6323412969779878
+onshore wind,0.17425352832467156
+solar pv,0.08347570808959558
+solar thermal,0.11955441996991129
+biomass,0.2969718751850845
+geothermal,0.1962978819110564
+petroleum,0.11586187975255104
+natural gas peaker,0.37017095779576853
+lignite,0.11767526995465394
+offshore wind,0.17425352832467156
+crude oil,0.11586187975255104
+heavy or residual fuel oil,0.11586187975255104
+municipal solid waste,0.2969718751850845
