@@ -4,6 +4,8 @@ title:	"Colorado EPS Version History"
 ---
 This page tracks updates that have been made with each version of the Colorado Energy Policy Simulator.
 
-### **{version number} - {release date}**
+### **3.1.1 - Feb 19, 2021**
 
-* {comment}
+* Official launch of the Colorado EPS
+
+
