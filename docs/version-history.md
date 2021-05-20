@@ -4,7 +4,7 @@ title:	"Colorado EPS Version History"
 ---
 This page tracks updates that have been made with each version of the Colorado Energy Policy Simulator.
 
-### **3.1.2 - May 20, 2021**
+### **3.1.1.1 - May 20, 2021**
 
 * Update coal power plant retirement dates from Xcel Energy's recently announced Clean Energy Plan for Colorado. 
 
