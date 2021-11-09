@@ -4,7 +4,7 @@ title:	"Colorado EPS Version History"
 ---
 This page tracks updates that have been made with each version of the Colorado Energy Policy Simulator.
 
-### **3.1.1.2 - November 8, 2021**
+### **3.1.1.2 - November 9, 2021**
 
 * Update with additional scenarios showcasing 2021 legislative session and add 2030 target.
 
