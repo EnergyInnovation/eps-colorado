@@ -1,0 +1,1155 @@
+File Names
+acronym-key.xlsx
+cpi.xlsx
+CSV Export Tool.xlsm
+file_names.csv
+version.txt
+BAU Deaths by Demographic Trait.xlsx
+BDbDT.csv
+FoHObDT-NOx-asian.csv
+FoHObDT-NOx-black.csv
+FoHObDT-NOx-female.csv
+FoHObDT-NOx-hispanic.csv
+FoHObDT-NOx-male.csv
+FoHObDT-NOx-nonhispanic.csv
+FoHObDT-NOx-otherrace.csv
+FoHObDT-NOx-white.csv
+FoHObDT-PM25-asian.csv
+FoHObDT-PM25-black.csv
+FoHObDT-PM25-female.csv
+FoHObDT-PM25-hispanic.csv
+FoHObDT-PM25-male.csv
+FoHObDT-PM25-nonhispanic.csv
+FoHObDT-PM25-otherrace.csv
+FoHObDT-PM25-white.csv
+FoHObDT-SOx-asian.csv
+FoHObDT-SOx-black.csv
+FoHObDT-SOx-female.csv
+FoHObDT-SOx-hispanic.csv
+FoHObDT-SOx-male.csv
+FoHObDT-SOx-nonhispanic.csv
+FoHObDT-SOx-otherrace.csv
+FoHObDT-SOx-white.csv
+Frac of Health Outcomes by Demographic Trait.xlsx
+Health Outcome Incidence per Ton Pollutant.xlsx
+HOIpTP-buildings-NOx.csv
+HOIpTP-buildings-PM25.csv
+HOIpTP-buildings-SO2.csv
+HOIpTP-electricity-NOx.csv
+HOIpTP-electricity-PM25.csv
+HOIpTP-electricity-SO2.csv
+HOIpTP-industry-NOx.csv
+HOIpTP-industry-PM25.csv
+HOIpTP-industry-SO2.csv
+HOIpTP-LULUCF-NOx.csv
+HOIpTP-LULUCF-PM25.csv
+HOIpTP-LULUCF-SO2.csv
+HOIpTP-transport-NOx.csv
+HOIpTP-transport-PM25.csv
+HOIpTP-transport-SO2.csv
+QSfHO.csv
+Quantization Size for Health Outcomes.xlsx
+SCoC.csv
+Social Cost of Carbon.xlsx
+Value of a Statistical Life.xlsx
+VoaSL.csv
+BASoBC-commercial.csv
+BASoBC-rural-residential.csv
+BASoBC-urban-residential.csv
+BAU Amt Spent on Bldg Components.xlsx
+BAU Components Energy Use.xlsx
+BCEU-all-envelope.csv
+BCEU-commercial-appl.csv
+BCEU-commercial-cooling.csv
+BCEU-commercial-heating.csv
+BCEU-commercial-lighting.csv
+BCEU-commercial-other.csv
+BCEU-rural-residential-appl.csv
+BCEU-rural-residential-cooling.csv
+BCEU-rural-residential-heating.csv
+BCEU-rural-residential-lighting.csv
+BCEU-rural-residential-other.csv
+BCEU-urban-residential-appl.csv
+BCEU-urban-residential-cooling.csv
+BCEU-urban-residential-heating.csv
+BCEU-urban-residential-lighting.csv
+BCEU-urban-residential-other.csv
+BAU Distribued Electricity Quantities.xlsx
+BDEQ-BDESC-commercial.csv
+BDEQ-BDESC-rural-residential.csv
+BDEQ-BDESC-urban-residential.csv
+BDEQ-BEOfDS-commercial.csv
+BDEQ-BEOfDS-rural-residential.csv
+BDEQ-BEOfDS-urban-residential.csv
+BAU Frac of Components Sold by Quality Lvl.xlsx
+BFoCSbQL-commercial.csv
+BFoCSbQL-rural-residential.csv
+BFoCSbQL-urban-residential.csv
+BAU Perc Subsidy for Distributed Solar PV Capacity.xlsx
+BPSfDSPC.csv
+Bldg Retrofitting E Savings and Costs.xlsx
+BRESaC-cost.csv
+BRESaC-energy.csv
+CL.csv
+Component Lifetime.xlsx
+Cost per Unit Dist Solar Cap.xlsx
+CpUDSC-softcosts.csv
+CpUDSC-totalcost.csv
+Elast of Bldg Svc Demand wrt E Cost.xlsx
+EoBSDwEC.csv
+Elast of Component E Demand wrt E Cost.xlsx
+EoCEDwEC.csv
+Elast of Component Price wrt E Use.xlsx
+EoCPwEU.csv
+Elasticity of Dist Solar Deployment wrt Subsidy Perc.xlsx
+EoDSDwSP.csv
+FoBObE.csv
+Frac of Bldgs Owned by Entity.xlsx
+ICpUEfEBE-com-appl.csv
+ICpUEfEBE-com-heating.csv
+ICpUEfEBE-com-other.csv
+ICpUEfEBE-rur-res-appl.csv
+ICpUEfEBE-rur-res-heating.csv
+ICpUEfEBE-rur-res-other.csv
+ICpUEfEBE-urb-res-appl.csv
+ICpUEfEBE-urb-res-heating.csv
+ICpUEfEBE-urb-res-other.csv
+Incr Cost per Unit E for Electrified Building Equipment.xlsx
+Market Share Changes due to Rebate Prog by Qual Lvl.xlsx
+MSCdtRPbQL.csv
+PCFURfE.csv
+Perc Components Fuel Use Reduction for Electricity.xlsx
+Perc E Use Difference from Std by Qual Level.xlsx
+PEUDfSbQL.csv
+Pot Perc Eff Impr due to Impr Contractor Edu and Training.xlsx
+PPEIdtICEaT.csv
+Potential Perc Eff Improvement due to Impr Labeling.xlsx
+PPEIdtIL.csv
+RBFF.csv
+Recipient Buildings Fuel Fractions.xlsx
+Rebate Perc by Building Component Type.xlsx
+RPbBCT.csv
+Shr of Bldg Cap and Instl Costs by ISIC Code.xlsx
+SoBCaICbIC-commercial.csv
+SoBCaICbIC-ruralresidential.csv
+SoBCaICbIC-urbanresidential.csv
+Shr of Blgd Rtrft Cost Borne by Govt.xlsx
+SoBRCBbG.csv
+Share of Cpnt E Use that is New This Year.xlsx
+SoCEUtiNTY.csv
+Shr of Dist Solar Costs by Rcpnt ISIC Code.xlsx
+SoDSCbRIC.csv
+Start Year Components Energy Use.xlsx
+SYCEU-commercial.csv
+SYCEU-rural-residential.csv
+SYCEU-urban-residential.csv
+Start Year Distributed Electricity Capacity.xlsx
+SYDEC.csv
+BAU CCS Subsidy.xlsx
+BCS.csv
+BAU Fraction of CCS Potential Achieved by Industry.xlsx
+BFoCPAbI-energyEmis.csv
+BFoCPAbI-processEmis.csv
+Biomass with CCS Storage per MWh.xlsx
+BwCCSSpM.csv
+CC-CCoEtSOToCpY.csv
+CC-EUpTCS.csv
+CC-TOMCpTS.csv
+CCS Calculations.xlsx
+CO2 Capture Potentials.xlsx
+CPPbES.csv
+CPPbI.csv
+Discount Rate.xlsx
+DR.csv
+QSfCF.csv
+Quantization Size for Cash Flows.xlsx
+QSfP.csv
+Quantization Size for Pollutants.xlsx
+BAEPAbCiPC.csv
+Bool Are Energy Prices Affected by Chng in Production Costs.xlsx
+BDCTBA.csv
+Boolean Disable Carbon Tax Border Adjustment.xlsx
+BDMFL.csv
+Boolean Disable Macroecon Feedback Loops.xlsx
+BENCEfCT.csv
+Boolean Exempt Non CO2 Emissions from Carbon Tax.xlsx
+BEPEfCT.csv
+Boolean Exempt Process Emissions From Carbon Tax.xlsx
+BESHFoFRV.csv
+Boolean Elec Suppliers Have Foresight of Future RPS Values.xlsx
+BIEfEE.csv
+Boolean Include Emissions from Exported Electricity.xlsx
+BIEfIE.csv
+Boolean Include Emissions from Imported Electricity.xlsx
+Bool Rebate Carbon Tax on Exported Products.xlsx
+BRCToEP.csv
+Boolean Use Twenty Year GWP Values.xlsx
+BUTYGV.csv
+EGGRA-gdp-adjustment.csv
+EGGRA-use-adjustment.csv
+Exogenous GDP Growth Rate Adjustment.xlsx
+Elasticity of Sectoral Energy Use wrt Per Capita GDP in Recession.xlsx
+EoSEUwGDPiR.csv
+FoICStCT.csv
+Fraction of Industry Category Subject to Carbon Tax.xlsx
+Government Revenue Accounting.xlsx
+GRA-carbontax.csv
+GRA-CCSsubsidy.csv
+GRA-distsolarsubsidy.csv
+GRA-eleccapconstsubsidy.csv
+GRA-elecgensubsidy.csv
+GRA-evsubsidy.csv
+GRA-fuelsubsidy.csv
+GRA-fueltax.csv
+GRA-ntnldebtinterest.csv
+GRA-remainder.csv
+GRA-vehbatsubsidy.csv
+BAU Fraction of Heat from CHP.xlsx
+BFoHfC.csv
+BAU Frac of Heat Provided by Fuel.xlsx
+BFoHPbF.csv
+Efficiency of Conversion to Usable Heat.xlsx
+EoCtUH.csv
+HDL.csv
+Heat Distribution Losses.xlsx
+Recipient Heat Fuel Fractions.xlsx
+RHFF.csv
+Ann Ret per Unit Inc in Relative Cost.xlsx
+ARpUIiRC.csv
+BAU Cost of Electricity Sector Capital.xlsx
+BCoESC-other.csv
+BCoESC-power-plants.csv
+Battery Cost per Unit Cap.xlsx
+BBoSCpUC.csv
+BCpUC.csv
+BAU Cap Retirements before Quantization.xlsx
+BCRbQ.csv
+BAU Dispatch Priority by Elec Source.xlsx
+BDPbES.csv
+BDSBaPCF.csv
+Boolean Do Suppliers Bid at Peak Capacity Factors.xlsx
+BDTPTUMCF.csv
+Boolean Does This Plant Type Use Maximum Capacity Factor.xlsx
+BAU Expected Capacity Factors.xlsx
+BECF.csv
+BAU EV Grid Balancing.xlsx
+BEVGB-fraction-of-bat-cap.csv
+BEVGB-fraction-of-EVs.csv
+BAU Generation Capacity Lifetime.xlsx
+BGCL.csv
+BAU Guaranteed Dispatch Perc by Elec Source.xlsx
+BGDPbES.csv
+BAU Heat Rates and Start Year Capacities.xlsx
+BHRaSYC-HeatRates.csv
+BHRaSYC-StartYearCapacities.csv
+BAU Pumped Hydro Cap.xlsx
+BPHC-PHCaDHpD.csv
+BPHC.csv
+BAU Pol Mandated Cap Const Sched.xlsx
+BPMCCS.csv
+BAU Subsidy per Unit Grid Battery Capacity Deployed.xlsx
+BPSpUGBCD.csv
+Boolean Plant Types Built for Reliability Needs.xlsx
+BPTBfRN.csv
+BAU RPS Data by Subregion.xlsx
+BRPSDbS-electricity-shares.csv
+BRPSDbS-RPS-percentages.csv
+BAU Subsidy per Unit Electricity Supplied to the Grid by Grid Batteries.xlsx
+BSpUESttGbGB.csv
+BAU Trans and Distr Loss Perc.xlsx
+BTaDLP.csv
+BAU Transmission Capacity.xlsx
+BTC.csv
+BAU Zero Emis Credit for Nuc Plants.xlsx
+BZECfNP.csv
+Capacity Construction and Maint Costs.xlsx
+CCaMC-ACAPEXpUC.csv
+CCaMC-AFOaMCpUC.csv
+CCaMC-BCCpUC.csv
+CCaMC-BCCUSRCpUC.csv
+CCaMC-BSCpUC.csv
+CCaMC-SLCCpUC.csv
+CCaMC-VOaMCpUC.csv
+CCS Transportation and Storage Cost.xlsx
+CCSTaSC.csv
+Cap Retirements before Quantization.xlsx
+CRbQ.csv
+Capacity Responses to Profits and Losses.xlsx
+CRtPaL-batteries.csv
+CRtPaL-losses.csv
+CRtPaL-profits.csv
+DATAiRC.csv
+Demand Altering Tech Assistance in RPS Compliance.xlsx
+DCCpUIiPL.csv
+Dist Construction Cost per Unit Increase in Peak Load.xlsx
+DCpUC.csv
+Decommissioning Cost per Unit Cap.xlsx
+Dispatch Priority by Elec Source.xlsx
+DPbES.csv
+Demand Response Capacity.xlsx
+DRC-ADRHpDRE.csv
+DRC-BDRC.csv
+DRC-HoDRAUMCUpY.csv
+DRC-PADRC.csv
+Demand Response Capacity Factor.xlsx
+DRCF.csv
+Demand Response Costs.xlsx
+DRCo-ACpUDRC.csv
+DRCo-SoDRbP.csv
+EDWP-ParameterA.csv
+EDWP-ParameterB.csv
+Electricity Dispatch Weibull Parameters.xlsx
+EIaE-BEE.csv
+EIaE-BEEP.csv
+EIaE-BIE.csv
+EIaE-IEP.csv
+Elec Imports and Exports.xlsx
+ELF-bldg-summer.csv
+ELF-bldg-winter.csv
+ELF-sectors.csv
+ELF-vehicles.csv
+Equipment Load Factors.xlsx
+Elasticity of Power Plant Fuel Type Shifting wrt Fuel Price.xlsx
+EoPPFTSwFP.csv
+Elec Storage Tech Round Trip Efficiency.xlsx
+ESTRTE-grid-batteries.csv
+ESTRTE-pumped-hydro.csv
+Elec Tech Cost Multiplier by Tech Cost Tier.xlsx
+ETCMbTCT.csv
+Electricity Technology Logit Exponent.xlsx
+ETLE-capacity.csv
+ETLE-output.csv
+Electricity Technology Shareweights.xlsx
+ETS.csv
+FoIaEEUfDB.csv
+Frac of Imp-Exp Elec Used for Diurnal Balancing.xlsx
+FoPNDtBAoT.csv
+Fraction of Predicted Net Demand to Build Ahead of Time.xlsx
+FoSYCRpUNL.csv
+Frac of Start Year Cap Ret per Unit Net Loss.xlsx
+FoTCAMRBtPF.csv
+Frac of TCAMRB that Provides Flexibility.xlsx
+FSCaFoCC.csv
+Fuel Shifting Cost as Frac of Const Cost.xlsx
+BGBSC.csv
+GBDSD.csv
+Grid Battery Storage Capacities.xlsx
+PAGBSC.csv
+SYGBSC.csv
+GDPbES.csv
+Guaranteed Dispatch Perc by Elec Source.xlsx
+IiCFfNPdtTI.csv
+Inc in Cap Factors due to Tech Imprv.xlsx
+LFHVM.csv
+Load Factor Hourly Variance Multiplier.xlsx
+Maximum Capacity Factor.xlsx
+MCF.csv
+Min Life for Pwr Plnt Rtmnts.xlsx
+MLfPPR.csv
+Max Potential Capacity by Source.xlsx
+MPCbS.csv
+Minimum Power Plant Capacity.xlsx
+MPPC.csv
+Normalized Standard Deviation of Dispatch Costs.xlsx
+NSDoDC.csv
+PMCCS.csv
+Pol Mandated Cap Const Sched.xlsx
+Peak Time Capacity Factors.xlsx
+PTCF.csv
+Plant Types That May be Curtailed.xlsx
+PTTMbC.csv
+Plant Type Used for Initial Guess at Marginal Dispatch Cost.xlsx
+PTUfIGaMDC.csv
+RAF-demand-altering-techs.csv
+RAF-generation.csv
+Regional Availability Factor.xlsx
+Reserve Margin.xlsx
+RM.csv
+RPfFESCC Repayment Period for Financed Elec Sector Capital Costs.xlsx
+RPfFESCC.csv
+RPS Qualifying Source Definitions.xlsx
+RQSD-BRQSD.csv
+RQSD-RQSD.csv
+Seasonal Electricity Storage.xlsx
+SES-annual-cycles.csv
+SES-capacity.csv
+SES-efficiency.csv
+Seasonal Hourly Equipment Load Factors by End Use.xlsx
+SHELF-aircraft.csv
+SHELF-commercial-appliances.csv
+SHELF-commercial-cooling.csv
+SHELF-commercial-envelope.csv
+SHELF-commercial-heating.csv
+SHELF-commercial-lighting.csv
+SHELF-commercial-other.csv
+SHELF-days-per-timeslice.csv
+SHELF-district-heat-hydrogen.csv
+SHELF-geoeng.csv
+SHELF-HDVs.csv
+SHELF-industry.csv
+SHELF-LDVs.csv
+SHELF-motorbikes.csv
+SHELF-rail.csv
+SHELF-residential-appliances.csv
+SHELF-residential-cooling.csv
+SHELF-residential-envelope.csv
+SHELF-residential-heating.csv
+SHELF-residential-lighting.csv
+SHELF-residential-other.csv
+SHELF-ships.csv
+Shr of Costs that Must be Covered to be Deemed Profitable.xlsx
+SoCtMbCtbDP.csv
+Share of Electricity Sector Capital and OM Costs by ISIC Code.xlsx
+SoESCaOMCbIC-capital.csv
+SoESCaOMCbIC-fixedOM.csv
+SoESCaOMCbIC-variableOM.csv
+Share of Fwd Cost Reqd for Profitability.xlsx
+SoFCRfP.csv
+Shr of Fwd Costs that Must be Covered to be Prevent Retirement.xlsx
+SoFCtMbCtPR.csv
+Shr of Lst Yr Elec Cap by Tech Cost Tier.xlsx
+SoLYECbTCT.csv
+Share of Transmission and Distribution Capital Costs by ISIC Code.xlsx
+SoTaDCCbIC.csv
+Share of Transmission and Distribution OM Costs by ISIC Code.xlsx
+SoTaDOMCbIC.csv
+STfESCE Smoothing Time for Electricity Sector Capital Expenditures.xlsx
+STfESCE.csv
+Smoothing Time for Forecast Capacity Construction for Reliability.xlsx
+STfFCCfR.csv
+Start Year Peak Electricity Load.xlsx
+SYPEL.csv
+Start Year Seasonal Expected Hourly Electricity Capacity Factors.xlsx
+SYSHECF-biomass-CCS.csv
+SYSHECF-biomass.csv
+SYSHECF-combined-cycle-CCS.csv
+SYSHECF-combined-cycle.csv
+SYSHECF-crude-oil.csv
+SYSHECF-geothermal.csv
+SYSHECF-hard-coal-CCS.csv
+SYSHECF-hard-coal.csv
+SYSHECF-heavy-or-residual-oil.csv
+SYSHECF-hydro.csv
+SYSHECF-hydrogen-CC.csv
+SYSHECF-hydrogen-CT.csv
+SYSHECF-lignite-CCS.csv
+SYSHECF-lignite.csv
+SYSHECF-MSW.csv
+SYSHECF-natural-gas-peaker.csv
+SYSHECF-nuclear.csv
+SYSHECF-offshore-wind.csv
+SYSHECF-onshore-wind.csv
+SYSHECF-petroleum.csv
+SYSHECF-SMR.csv
+SYSHECF-solar-pv-dist.csv
+SYSHECF-solar-pv.csv
+SYSHECF-solar-thermal.csv
+SYSHECF-steam-turbine.csv
+Start Year Transmission and Distribution OM Costs.xlsx
+SYTaDOMC-Distribution.csv
+SYTaDOMC-Transmission.csv
+TCAMRB.csv
+Trans Cap Across Modeled Region Border.xlsx
+TCCpUNEG.csv
+Trans Const Cost per Unit New Electricity Generation.xlsx
+Water Use by Power Plant Type.xlsx
+WUbPPT-consumption.csv
+WUbPPT-withdrawals.csv
+BAU CO2 Sequestered Globally.xlsx
+BCSG.csv
+BAU Global Battery Storage Cap.xlsx
+BGBSC.csv
+SYGBSC.csv
+BAU Global Solar and Wind Cap.xlsx
+BGSaWC.csv
+SYBGSaWC.csv
+FoTOMRAEL.csv
+Frac of Tech Outside Modeled Region Affecting Endo Learning.xlsx
+GBEtPR.csv
+Grid Battery Energy to Power Ratio.xlsx
+PDiBCpDoC.csv
+Perc Decline in Battery Cost per Doubling of Cap.xlsx
+PDiCCpDoC.csv
+Perc Decline in Cap Cost per Doubling of Cap.xlsx
+PDiCECpDoC.csv
+Perc Decline in CCS Eqpt Cost per Doubling of Capacity.xlsx
+BAU Carbon Tax Rate.xlsx
+BCTR.csv
+BAU Fuel Prices and Taxes.xlsx
+BFPaT-fueltax-biodies.csv
+BFPaT-fueltax-biogas.csv
+BFPaT-fueltax-biomass.csv
+BFPaT-fueltax-coal.csv
+BFPaT-fueltax-crude.csv
+BFPaT-fueltax-electricity.csv
+BFPaT-fueltax-geothermal.csv
+BFPaT-fueltax-heat.csv
+BFPaT-fueltax-heavyfueloil.csv
+BFPaT-fueltax-hydro.csv
+BFPaT-fueltax-hydrogen.csv
+BFPaT-fueltax-jetkerosene.csv
+BFPaT-fueltax-lignite.csv
+BFPaT-fueltax-lpgpropbut.csv
+BFPaT-fueltax-msw.csv
+BFPaT-fueltax-natgas.csv
+BFPaT-fueltax-nuclear.csv
+BFPaT-fueltax-petdies.csv
+BFPaT-fueltax-petgas.csv
+BFPaT-fueltax-solar.csv
+BFPaT-fueltax-wind.csv
+BFPaT-pretax-biodies.csv
+BFPaT-pretax-biogas.csv
+BFPaT-pretax-biomass.csv
+BFPaT-pretax-coal.csv
+BFPaT-pretax-crude.csv
+BFPaT-pretax-electricity.csv
+BFPaT-pretax-geothermal.csv
+BFPaT-pretax-heat.csv
+BFPaT-pretax-heavyfueloil.csv
+BFPaT-pretax-hydro.csv
+BFPaT-pretax-hydrogen.csv
+BFPaT-pretax-jetkerosene.csv
+BFPaT-pretax-lignite.csv
+BFPaT-pretax-lpgpropbut.csv
+BFPaT-pretax-msw.csv
+BFPaT-pretax-natgas.csv
+BFPaT-pretax-nuclear.csv
+BFPaT-pretax-petdies.csv
+BFPaT-pretax-petgas.csv
+BFPaT-pretax-solar.csv
+BFPaT-pretax-wind.csv
+BAU Fuel Production Imports and Exports.xlsx
+BFPIaE-exports.csv
+BFPIaE-imports.csv
+BFPIaE-production.csv
+BAU Subsidies.xlsx
+BS-BSfTFpEUP.csv
+BS-BSpUECB.csv
+BS-BSpUEO.csv
+ETRbF.csv
+Export Tax Rate by Fuel.xlsx
+FoPTaFbIC.csv
+Fractions of Products That are Fuels by ISIC Code.xlsx
+FPIEBP.csv
+Fuel Prod Imp Exp Balancing Priorities.xlsx
+FSPbPPT.csv
+Fuel Surcharge Perc by Power Plant Type.xlsx
+GbPbT.csv
+GWP by Pollutant by Timeframe.xlsx
+IMFPbFT.csv
+Intnl Market Fuel Price by Fuel Type.xlsx
+Max Perc Inc in Fuel Exports.xlsx
+MPIiFE.csv
+Max Perc Inc in Fuel Imports.xlsx
+MPIiFI.csv
+Max Perc Inc in Fuel Production.xlsx
+MPIiFP.csv
+PEI-BFPEI.csv
+PEI-EFPEI.csv
+PEI-IFPEI.csv
+PEI-TFPEI-aircraft.csv
+PEI-TFPEI-HDVs.csv
+PEI-TFPEI-LDVs.csv
+PEI-TFPEI-motorbikes.csv
+PEI-TFPEI-rail.csv
+PEI-TFPEI-ships.csv
+Pollutant Emissions Intensities.xlsx
+PEIIR-BFPEIIR.csv
+PEIIR-EFPEIIR.csv
+PEIIR-IFPEIIR.csv
+PEIIR-TFPEIIR-aircraft.csv
+PEIIR-TFPEIIR-HDVs.csv
+PEIIR-TFPEIIR-LDVs.csv
+PEIIR-TFPEIIR-motorbikes.csv
+PEIIR-TFPEIIR-rail.csv
+PEIIR-TFPEIIR-ships.csv
+Pollutant Emissions Intensity Improvement Rate.xlsx
+Perc of Fuel Demand Changes that Affect Exports.xlsx
+PoFDCtAE.csv
+QSfE.csv
+Quantization Size for Energy.xlsx
+DACD-capex.csv
+DACD-energyintensity.csv
+DACD-potential.csv
+Direct Air Capture Data.xlsx
+BAU Hydrogen Production Shr by Pathway.xlsx
+BHPSbP.csv
+EHPpUC.csv
+Electrolyzer Hydrogen Production per Unit Capacity.xlsx
+HPEbP.csv
+Hydgn Production Eff by Pathway.xlsx
+HPEC.csv
+HPEO.csv
+Hydrogen Production Eqpt Costs.xlsx
+HPPECbP.csv
+Hydgn Prod Perc Excess Cap by Pathway.xlsx
+HPtFM.csv
+Hydrogen Pathway to Fuel Mappings.xlsx
+Recipient Hydrogen Pathway Fractions.xlsx
+RHPF.csv
+Share of Hydrogen Production Capital Costs by Recipient ISIC Code.xlsx
+SoHPCCbRIC.csv
+BAU Industrial Fuel Use before CCS.xlsx
+BIFUbC-biomass.csv
+BIFUbC-coal.csv
+BIFUbC-crude-oil.csv
+BIFUbC-electricity.csv
+BIFUbC-heat.csv
+BIFUbC-heavy-or-residual-oil.csv
+BIFUbC-hydrogen.csv
+BIFUbC-LPG-propane-or-butane.csv
+BIFUbC-natural-gas.csv
+BIFUbC-petroleum-diesel.csv
+BAU Process Emissions.xlsx
+BPE-BC.csv
+BPE-CH4.csv
+BPE-CO.csv
+BPE-CO2.csv
+BPE-F-gases.csv
+BPE-N2O.csv
+BPE-NOx.csv
+BPE-OC.csv
+BPE-PM10.csv
+BPE-PM25.csv
+BPE-SoAPEfA.csv
+BPE-SOx.csv
+BPE-VOC.csv
+BAU Perc Fuel Use by Industrial Process.xlsx
+BPFUBIP-electricity.csv
+BPFUBIP-thermal-fuels.csv
+BAU Proportion of Industrial Fuel Used for Energy.xlsx
+BPoIFUfE-biomass.csv
+BPoIFUfE-coal.csv
+BPoIFUfE-crude-oil.csv
+BPoIFUfE-electricity.csv
+BPoIFUfE-heat.csv
+BPoIFUfE-heavy-or-residual-oil.csv
+BPoIFUfE-hydrogen.csv
+BPoIFUfE-LPG-propane-or-butane.csv
+BPoIFUfE-natural-gas.csv
+BPoIFUfE-petroleum-diesel.csv
+BAU Shr of Ag Indst Going to Anml Prdcts.xlsx
+BSoAIGtAP.csv
+Cost to Impl Eff Policy per Unit E Saved or Shifted.xlsx
+CtIEPpUESoS.csv
+Elasticities of Demand for Industrial Products.xlsx
+EoDfIP.csv
+FLRbI.csv
+Foreign Leakage Rate by Industry.xlsx
+IESE Import Export Substitution Elasticities.xlsx
+IESE.csv
+IFStFS.csv
+Indst Fuels Subject to Fuel Shifting.xlsx
+Methane Heating Value.xlsx
+MHV.csv
+PERAC-alum-inspctmaintretrofit.csv
+PERAC-cement.csv
+PERAC-chem-inspctmaintretrofit.csv
+PERAC-chemicals-N2Oabatement.csv
+PERAC-coalmining-mthncptr.csv
+PERAC-coalmining-mthndstr.csv
+PERAC-cropsrice.csv
+PERAC-fgasdestruction.csv
+PERAC-fgasrecovery.csv
+PERAC-fgassubstitution.csv
+PERAC-livestock.csv
+PERAC-MCD.csv
+PERAC-ngpPrcsTnD-mthncptr.csv
+PERAC-ngpPrcsTnD-mthndstr.csv
+PERAC-ngpProd-mthncptr.csv
+PERAC-ngpProd-mthndstr.csv
+PERAC-tillage.csv
+PERAC-waste-mthncptr.csv
+PERAC-waste-mthndstr.csv
+Proc Emis Reductions and Costs.xlsx
+Perc Indst Fuel Use Reduction for Elec.xlsx
+PIFURfE.csv
+Pot Perc Reduction in Fuel Use from Early Retirement.xlsx
+PPRiFUfERoIF.csv
+Pot Perc Red in Fuel Use fr Inc Cogen and WHR.xlsx
+PPRiFUfICaWHR.csv
+Pot Perc Red in Fuel Use fr Impr Inst and Integ of Eqpt.xlsx
+PPRiFUfIIaIoE.csv
+Ratio of Nutr Eqiv Plant to Anim Products Prd per Unit Land Area.xlsx
+RoNEPtAPPpULA.csv
+Share of Capital and OM Spending by ISIC Code.xlsx
+SoCaOMSbRIC.csv
+Shr of Cng in Indst Expenses Passed Thr to Buyers.xlsx
+SoCiIEPTtB.csv
+Share of Process Emis Abatement Spending by ISIC Code.xlsx
+SoPEASbRIC.csv
+BAU Dmst Cnt Shr of Cnsmptn and Exp Shr of Prdtn by ISIC Code.xlsx
+BDCSoCbIC.csv
+BESoP.csv
+BAU Employment by ISIC Code.xlsx
+BEbIC.csv
+BAU Employee Compensation by ISIC Code.xlsx
+BECbIC.csv
+BAU GDP.xlsx
+BGDP.csv
+BAU Output by ISIC Code.xlsx
+BObIC.csv
+BAU Perc Cng in Output and Domestic Content Share by ISIC Code.xlsx
+BPCiDCSbIC.csv
+BPCiObIC.csv
+BAU Pop Employment and Compensation Projections.xlsx
+BPEaCP-employedpop.csv
+BPEaCP-employeecomp.csv
+BPEaCP-population.csv
+BAU Value Added by ISIC Code.xlsx
+BVAbIC.csv
+DLIM.csv
+Domestic Leontief Inverse Matrix.xlsx
+Demographics of Employees by ISIC Code.xlsx
+DoEbIC-16to19.csv
+DoEbIC-20to24.csv
+DoEbIC-25to34.csv
+DoEbIC-35to44.csv
+DoEbIC-45to54.csv
+DoEbIC-55to64.csv
+DoEbIC-65plus.csv
+DoEbIC-asian.csv
+DoEbIC-black.csv
+DoEbIC-female.csv
+DoEbIC-hispanic.csv
+DoEbIC-male.csv
+DoEbIC-nonhispanic.csv
+DoEbIC-otherrace.csv
+DoEbIC-white.csv
+FoGPbEaIC-entity.csv
+FoGPbEaIC-isic.csv
+Frac of Goods Purchased by Entity and ISIC Code.xlsx
+FtPICM.csv
+Fuel to Producing ISIC Code Map.xlsx
+GaHEbIC-government.csv
+GaHEbIC-household.csv
+Govt and Hhld Expenditures by ISIC Code.xlsx
+Household Savings Rate.xlsx
+HSR.csv
+Interest Rate on National Debt.xlsx
+IRoND.csv
+Labor Productivity Growth Rate by ISIC Code.xlsx
+LPGRbIC.csv
+Perc of National Debt Held by Entity.xlsx
+PoNDHbE.csv
+TLIM.csv
+Total Leontief Inverse Matrix.xlsx
+Union Representation Perc by ISIC Code.xlsx
+URPbIC.csv
+VAT or Sales Tax Rate.xlsx
+VoSTR.csv
+WMITR.csv
+Worker Marg Income Tax Rate.xlsx
+Annual Ongoing Cost of Land Use Pol per Unit Area.xlsx
+AOCoLUPpUA.csv
+BAU LULUCF Anthro Pollutant Emis.xlsx
+BLAPE.csv
+CApULAbIFM.csv
+CO2 Abated per Unit Land Area by Impr For Mgmt.xlsx
+Chg in Land Val per Unit Area Affected by Pol.xlsx
+CiLVpUAAbP.csv
+CO2 Sequestered per Unit Land Area per Year by Pol.xlsx
+CSpULApYbP.csv
+FoFObE.csv
+Fraction of Forests Owned by Entity.xlsx
+ICoLUPpUA.csv
+Impl Cost of Land Use Policies per Unit Area.xlsx
+PLANAbPiaSY.csv
+Potential Land Area Newly Affected by Pol in a Single Yr.xlsx
+Rebound Pol Emis per Unit Avoided CO2 Emis.xlsx
+RPEpUACE.csv
+EditScheduleTool.py
+FoPITY-1-WebApp.csv
+FoPITY-1.csv
+FoPITY-2-WebApp.csv
+FoPITY-2.csv
+FoPITY-3-WebApp.csv
+FoPITY-3.csv
+FoPITY-4-WebApp.csv
+FoPITY-4.csv
+FoPITY-5-WebApp.csv
+FoPITY-5.csv
+FoPITY-6-WebApp.csv
+FoPITY-6.csv
+FoPITY-7-WebApp.csv
+FoPITY-7.csv
+FoPITY-8-WebApp.csv
+FoPITY-8.csv
+FoPITY-9-WebApp.csv
+FoPITY-9.csv
+FoPITY-policy-elements.csv
+FractionOfPolicyImplementedThisYear.py
+Supporting Calculations for Policy Schedules.xlsx
+Final Time.xlsx
+FT.csv
+Initial Time.xlsx
+IT.csv
+AIiBCbVT-freight-bev.csv
+AIiBCbVT-freight-phev.csv
+AIiBCbVT-passenger-bev.csv
+AIiBCbVT-passenger-phev.csv
+Ann Impvmt in Bat Cap by Veh Type.xlsx
+Annual Vehicle Insurance Cost.xlsx
+AVIC.csv
+Avg Vehicle Lifetime.xlsx
+AVL.csv
+Avg Vehicle Loading.xlsx
+AVLo-freight.csv
+AVLo-passengers.csv
+Annual Vehicle Licensing Registration and Property Tax Costs.xlsx
+AVLRaPTC.csv
+Annual Vehicle Maint Cost.xlsx
+AVMC-freight.csv
+AVMC-passenger.csv
+Avg Veh Ownership Period.xlsx
+AVOP.csv
+Annual Vehicle Parking Costs.xlsx
+AVPC.csv
+BAADTbVT-freight.csv
+BAADTbVT-passengers.csv
+BAU Avg Annual Dist Traveled by Veh Type.xlsx
+BBSoEVP BAU Battery Share of Electric Vehicle Price.xlsx
+BBSoEVP-freight.csv
+BBSoEVP-passenger.csv
+BAU Cargo Dist Transported Relative to Start Yr.xlsx
+BCDTRtSY-frgt.csv
+BCDTRtSY-psgr.csv
+BAU EV Subsidy Perc.xlsx
+BAU Historical New Veh Fuel Economy After Lifetime.xlsx
+BHNVFEAL-aircraft-frgt.csv
+BHNVFEAL-aircraft-psgr.csv
+BHNVFEAL-HDVs-frgt.csv
+BHNVFEAL-HDVs-psgr.csv
+BHNVFEAL-LDVs-frgt.csv
+BHNVFEAL-LDVs-psgr.csv
+BHNVFEAL-motorbikes-frgt.csv
+BHNVFEAL-motorbikes-psgr.csv
+BHNVFEAL-rail-frgt.csv
+BHNVFEAL-rail-psgr.csv
+BHNVFEAL-ships-frgt.csv
+BHNVFEAL-ships-psgr.csv
+BAU LCFS Perc.xlsx
+BLP.csv
+BAU Number of EV Chargers.xlsx
+BNoEVC.csv
+BAU Number of Gas Pumps.xlsx
+BNoGP.csv
+BAU New Veh Fuel Economy.xlsx
+BNVFE-aircraft-frgt.csv
+BNVFE-aircraft-psgr.csv
+BNVFE-HDVs-frgt.csv
+BNVFE-HDVs-psgr.csv
+BNVFE-LDVs-frgt.csv
+BNVFE-LDVs-psgr.csv
+BNVFE-motorbikes-frgt.csv
+BNVFE-motorbikes-psgr.csv
+BNVFE-rail-frgt.csv
+BNVFE-rail-psgr.csv
+BNVFE-ships-frgt.csv
+BNVFE-ships-psgr.csv
+BAU New Vehicle Price.xlsx
+BNVP-aircraft-frgt.csv
+BNVP-aircraft-psgr.csv
+BNVP-HDVs-frgt.csv
+BNVP-HDVs-psgr.csv
+BNVP-LDVs-frgt.csv
+BNVP-LDVs-psgr.csv
+BNVP-motorbikes-frgt.csv
+BNVP-motorbikes-psgr.csv
+BNVP-rail-frgt.csv
+BNVP-rail-psgr.csv
+BNVP-ships-frgt.csv
+BNVP-ships-psgr.csv
+BAU Perc of Each Fuel Used by Veh Tech.xlsx
+BPoEFUbVT-aircraft-frgt-batelc.csv
+BPoEFUbVT-aircraft-frgt-dslveh.csv
+BPoEFUbVT-aircraft-frgt-gasveh.csv
+BPoEFUbVT-aircraft-frgt-hydgn.csv
+BPoEFUbVT-aircraft-frgt-natgas.csv
+BPoEFUbVT-aircraft-psgr-batelc.csv
+BPoEFUbVT-aircraft-psgr-dslveh.csv
+BPoEFUbVT-aircraft-psgr-gasveh.csv
+BPoEFUbVT-aircraft-psgr-hydgn.csv
+BPoEFUbVT-aircraft-psgr-natgas.csv
+BPoEFUbVT-HDVs-frgt-batelc.csv
+BPoEFUbVT-HDVs-frgt-dslveh.csv
+BPoEFUbVT-HDVs-frgt-gasveh.csv
+BPoEFUbVT-HDVs-frgt-hydgn.csv
+BPoEFUbVT-HDVs-frgt-LPG.csv
+BPoEFUbVT-HDVs-frgt-natgas.csv
+BPoEFUbVT-HDVs-frgt-plghyb.csv
+BPoEFUbVT-HDVs-psgr-batelc.csv
+BPoEFUbVT-HDVs-psgr-dslveh.csv
+BPoEFUbVT-HDVs-psgr-gasveh.csv
+BPoEFUbVT-HDVs-psgr-hydgn.csv
+BPoEFUbVT-HDVs-psgr-LPG.csv
+BPoEFUbVT-HDVs-psgr-natgas.csv
+BPoEFUbVT-HDVs-psgr-plghyb.csv
+BPoEFUbVT-LDVs-frgt-batelc.csv
+BPoEFUbVT-LDVs-frgt-dslveh.csv
+BPoEFUbVT-LDVs-frgt-gasveh.csv
+BPoEFUbVT-LDVs-frgt-hydgn.csv
+BPoEFUbVT-LDVs-frgt-LPG.csv
+BPoEFUbVT-LDVs-frgt-natgas.csv
+BPoEFUbVT-LDVs-frgt-plghyb.csv
+BPoEFUbVT-LDVs-psgr-batelc.csv
+BPoEFUbVT-LDVs-psgr-dslveh.csv
+BPoEFUbVT-LDVs-psgr-gasveh.csv
+BPoEFUbVT-LDVs-psgr-hydgn.csv
+BPoEFUbVT-LDVs-psgr-LPG.csv
+BPoEFUbVT-LDVs-psgr-natgas.csv
+BPoEFUbVT-LDVs-psgr-plghyb.csv
+BPoEFUbVT-mtrbks-frgt-batelc.csv
+BPoEFUbVT-mtrbks-frgt-dslveh.csv
+BPoEFUbVT-mtrbks-frgt-gasveh.csv
+BPoEFUbVT-mtrbks-frgt-hydgn.csv
+BPoEFUbVT-mtrbks-frgt-LPG.csv
+BPoEFUbVT-mtrbks-frgt-natgas.csv
+BPoEFUbVT-mtrbks-frgt-plghyb.csv
+BPoEFUbVT-mtrbks-psgr-batelc.csv
+BPoEFUbVT-mtrbks-psgr-dslveh.csv
+BPoEFUbVT-mtrbks-psgr-gasveh.csv
+BPoEFUbVT-mtrbks-psgr-hydgn.csv
+BPoEFUbVT-mtrbks-psgr-LPG.csv
+BPoEFUbVT-mtrbks-psgr-natgas.csv
+BPoEFUbVT-mtrbks-psgr-plghyb.csv
+BPoEFUbVT-rail-frgt-batelc.csv
+BPoEFUbVT-rail-frgt-dslveh.csv
+BPoEFUbVT-rail-frgt-gasveh.csv
+BPoEFUbVT-rail-frgt-hydgn.csv
+BPoEFUbVT-rail-frgt-natgas.csv
+BPoEFUbVT-rail-psgr-batelc.csv
+BPoEFUbVT-rail-psgr-dslveh.csv
+BPoEFUbVT-rail-psgr-gasveh.csv
+BPoEFUbVT-rail-psgr-hydgn.csv
+BPoEFUbVT-rail-psgr-natgas.csv
+BPoEFUbVT-ships-frgt-batelc.csv
+BPoEFUbVT-ships-frgt-dslveh.csv
+BPoEFUbVT-ships-frgt-gasveh.csv
+BPoEFUbVT-ships-frgt-hydgn.csv
+BPoEFUbVT-ships-frgt-natgas.csv
+BPoEFUbVT-ships-psgr-batelc.csv
+BPoEFUbVT-ships-psgr-dslveh.csv
+BPoEFUbVT-ships-psgr-gasveh.csv
+BPoEFUbVT-ships-psgr-hydgn.csv
+BPoEFUbVT-ships-psgr-natgas.csv
+Battery Pack Price.xlsx
+BPP.csv
+SYBPP.csv
+BAU Rng Anxiety Shadow Costs.xlsx
+BRASC.csv
+BAU Required ZEV Sales Perc by Subregion.xlsx
+BRZSPbS-frgt-hdv.csv
+BRZSPbS-frgt-ldv.csv
+BRZSPbS-frgt-mtrbk.csv
+BRZSPbS-psgr-hdv.csv
+BRZSPbS-psgr-ldv.csv
+BRZSPbS-psgr-mtrbk.csv
+BAU Subsidy for Vehicle Battery Production.xlsx
+BSfVBP.csv
+BAU Vehicle Subsidy.xlsx
+BVS-frgt-aircraft.csv
+BVS-frgt-HDVs.csv
+BVS-frgt-LDVs.csv
+BVS-frgt-motorbikes.csv
+BVS-frgt-rail.csv
+BVS-frgt-ships.csv
+BVS-psgr-aircraft.csv
+BVS-psgr-HDVs.csv
+BVS-psgr-LDVs.csv
+BVS-psgr-motorbikes.csv
+BVS-psgr-rail.csv
+BVS-psgr-ships.csv
+BAU Veh Techs Qualifying as ZEVs.xlsx
+BVTQaZ.csv
+Boolean Veh Types Subject to LCFS.xlsx
+BVTStL.csv
+Carbon Intensity Ratios by Transport Fuel.xlsx
+CIRbTF.csv
+Effect of Charging Stations on EV Market Share.xlsx
+EoCSoEVMS.csv
+Elast of Demand for Veh Use wrt Fuel Cost.xlsx
+EoDfVUwFC.csv
+Effect of Feebate on New Veh Fuel Econ.xlsx
+EoFoNVFE.csv
+Elast of New Veh Fuel Econ wrt Fuel Cost.xlsx
+EoNVFEwFC-aircraft.csv
+EoNVFEwFC-HDVs.csv
+EoNVFEwFC-LDVs.csv
+EoNVFEwFC-motorbikes.csv
+EoNVFEwFC-rail.csv
+EoNVFEwFC-ships.csv
+Elasticity of Veh Price wrt Fuel Econ.xlsx
+EoVPwFE.csv
+EV Charging Availability Parameters.xlsx
+EVCAP-A.csv
+EVCAP-B.csv
+EV Charger Cost.xlsx
+EVCC.csv
+EV Charger Revenue Share by Recip ISIC Code.xlsx
+EVCRSbRIC.csv
+FoSfBPPTtC.csv
+Fraction of Subsidy for Battery Production Passed Through to Consumers.xlsx
+FoVBPD.csv
+Fraction of Vehicle Batteries Produced Domestically.xlsx
+FoVObE-freight.csv
+FoVObE-passengers.csv
+Fraction of Veh Owned by Entity.xlsx
+Fare per Unit Cargo Dist.xlsx
+FpUCD-freight.csv
+FpUCD-passenger.csv
+GCApLC.csv
+Grams CO2e Avoided per LCFS Credit.xlsx
+ICtPSFfL.csv
+Incremental Cost to Produce Substitute Fuel for LCFS.xlsx
+IiNBMFC-freight-BEV.csv
+IiNBMFC-freight-PHEV.csv
+IiNBMFC-passenger-BEV.csv
+IiNBMFC-passenger-PHEV.csv
+Impvmt in Non Batt Mfg Costs.xlsx
+LCFS Credit Price Cap.xlsx
+LCPC.csv
+Max Perc of Each Fuel Usable by Veh Tech.xlsx
+MPoEFUbVT-aircraft-frgt-batelc.csv
+MPoEFUbVT-aircraft-frgt-dslveh.csv
+MPoEFUbVT-aircraft-frgt-gasveh.csv
+MPoEFUbVT-aircraft-frgt-hydgn.csv
+MPoEFUbVT-aircraft-frgt-natgas.csv
+MPoEFUbVT-aircraft-psgr-batelc.csv
+MPoEFUbVT-aircraft-psgr-dslveh.csv
+MPoEFUbVT-aircraft-psgr-gasveh.csv
+MPoEFUbVT-aircraft-psgr-hydgn.csv
+MPoEFUbVT-aircraft-psgr-natgas.csv
+MPoEFUbVT-HDVs-frgt-batelc.csv
+MPoEFUbVT-HDVs-frgt-dslveh.csv
+MPoEFUbVT-HDVs-frgt-gasveh.csv
+MPoEFUbVT-HDVs-frgt-hydgn.csv
+MPoEFUbVT-HDVs-frgt-LPG.csv
+MPoEFUbVT-HDVs-frgt-natgas.csv
+MPoEFUbVT-HDVs-frgt-plghyb.csv
+MPoEFUbVT-HDVs-psgr-batelc.csv
+MPoEFUbVT-HDVs-psgr-dslveh.csv
+MPoEFUbVT-HDVs-psgr-gasveh.csv
+MPoEFUbVT-HDVs-psgr-hydgn.csv
+MPoEFUbVT-HDVs-psgr-LPG.csv
+MPoEFUbVT-HDVs-psgr-natgas.csv
+MPoEFUbVT-HDVs-psgr-plghyb.csv
+MPoEFUbVT-LDVs-frgt-batelc.csv
+MPoEFUbVT-LDVs-frgt-dslveh.csv
+MPoEFUbVT-LDVs-frgt-gasveh.csv
+MPoEFUbVT-LDVs-frgt-hydgn.csv
+MPoEFUbVT-LDVs-frgt-LPG.csv
+MPoEFUbVT-LDVs-frgt-natgas.csv
+MPoEFUbVT-LDVs-frgt-plghyb.csv
+MPoEFUbVT-LDVs-psgr-batelc.csv
+MPoEFUbVT-LDVs-psgr-dslveh.csv
+MPoEFUbVT-LDVs-psgr-gasveh.csv
+MPoEFUbVT-LDVs-psgr-hydgn.csv
+MPoEFUbVT-LDVs-psgr-LPG.csv
+MPoEFUbVT-LDVs-psgr-natgas.csv
+MPoEFUbVT-LDVs-psgr-plghyb.csv
+MPoEFUbVT-mtrbks-frgt-batelc.csv
+MPoEFUbVT-mtrbks-frgt-dslveh.csv
+MPoEFUbVT-mtrbks-frgt-gasveh.csv
+MPoEFUbVT-mtrbks-frgt-hydgn.csv
+MPoEFUbVT-mtrbks-frgt-LPG.csv
+MPoEFUbVT-mtrbks-frgt-natgas.csv
+MPoEFUbVT-mtrbks-frgt-plghyb.csv
+MPoEFUbVT-mtrbks-psgr-batelc.csv
+MPoEFUbVT-mtrbks-psgr-dslveh.csv
+MPoEFUbVT-mtrbks-psgr-gasveh.csv
+MPoEFUbVT-mtrbks-psgr-hydgn.csv
+MPoEFUbVT-mtrbks-psgr-LPG.csv
+MPoEFUbVT-mtrbks-psgr-natgas.csv
+MPoEFUbVT-mtrbks-psgr-plghyb.csv
+MPoEFUbVT-rail-frgt-batelc.csv
+MPoEFUbVT-rail-frgt-dslveh.csv
+MPoEFUbVT-rail-frgt-gasveh.csv
+MPoEFUbVT-rail-frgt-hydgn.csv
+MPoEFUbVT-rail-frgt-natgas.csv
+MPoEFUbVT-rail-psgr-batelc.csv
+MPoEFUbVT-rail-psgr-dslveh.csv
+MPoEFUbVT-rail-psgr-gasveh.csv
+MPoEFUbVT-rail-psgr-hydgn.csv
+MPoEFUbVT-rail-psgr-natgas.csv
+MPoEFUbVT-ships-frgt-batelc.csv
+MPoEFUbVT-ships-frgt-dslveh.csv
+MPoEFUbVT-ships-frgt-gasveh.csv
+MPoEFUbVT-ships-frgt-hydgn.csv
+MPoEFUbVT-ships-frgt-natgas.csv
+MPoEFUbVT-ships-psgr-batelc.csv
+MPoEFUbVT-ships-psgr-dslveh.csv
+MPoEFUbVT-ships-psgr-gasveh.csv
+MPoEFUbVT-ships-psgr-hydgn.csv
+MPoEFUbVT-ships-psgr-natgas.csv
+Perc Trans Fuel Use Reduction for Elec.xlsx
+PTFURfE.csv
+QSfV.csv
+Quantization Size for Vehicles.xlsx
+Retail Price Equivalent Factor.xlsx
+RPEF.csv
+Recipient Transportation Mode Fractions.xlsx
+RTMF-freight.csv
+RTMF-passengers.csv
+Share of Cargo Dist Transported that is New This Year.xlsx
+SoCDTtiNTY-frgt.csv
+SoCDTtiNTY-psgr.csv
+Separately Regulated Pollutants by Vehicle Type.xlsx
+SRPbVT.csv
+Start Year Battery Cap by Veh Type.xlsx
+SYBCbVT-freight.csv
+SYBCbVT-passenger.csv
+Start Year Fleet Avg Fuel Economy.xlsx
+SYFAFE-frgt.csv
+SYFAFE-psgr.csv
+Start Year Number of EV Chargers.xlsx
+SYNoEVC.csv
+Start Year Vehicles by Technology.xlsx
+SYVbT-freight.csv
+SYVbT-passenger.csv
+Transportation Technology Logit Exponents.xlsx
+TTLE.csv
+Transportation Technology Shareweights.xlsx
+TTS-aircraft-frgt.csv
+TTS-aircraft-psgr.csv
+TTS-HDVs-frgt.csv
+TTS-HDVs-psgr.csv
+TTS-LDVs-frgt.csv
+TTS-LDVs-psgr.csv
+TTS-motorbikes-frgt.csv
+TTS-motorbikes-psgr.csv
+TTS-rail-frgt.csv
+TTS-rail-psgr.csv
+TTS-ships-frgt.csv
+TTS-ships-psgr.csv
+VBDR.csv
+Veh Buyer Discount Rate.xlsx
+Veh Revenue Share by Recipient ISIC Code.xlsx
+VRSbRIC.csv
+Vehicle Shares by Subregion.xlsx
+VSbS-freight.csv
+VSbS-passenger.csv
+Veh Techs Qualifying as ZEVs.xlsx
+VTQaZ.csv
+Veh Techs Subject to Fuel Econ Std.xlsx
+VTStFES.csv
+BCF-BpEIEOU.csv
+BCF-BpLFOU.csv
+BCF-BpSFOU.csv
+BCF-VFEUCF.csv
+BTU Conversion Factors.xlsx
+BpTPEU-large.csv
+BpTPEU-small.csv
+BTU per Total Primary Energy Unit.xlsx
+Cargo Dist Conversion Factors.xlsx
+CDCF-FTMpFDOU.csv
+CDCF-PMpPDOU.csv
+Liters per Water Output Unit.xlsx
+LpWOU.csv
+Mass Output Units.xlsx
+MOU-large.csv
+MOU-small.csv
+OCCF-DpLOCU.csv
+OCCF-DpMOCU.csv
+OCCF-DpSOCU.csv
+Output Currency Conversion Factors.xlsx
