@@ -48,6 +48,7 @@ Fraction of Med and High Temp Industrial Heat Shifted to Other Fuels[chemicals 2
 Fraction of Med and High Temp Industrial Heat Shifted to Other Fuels[rubber and plastic products 22,hydrogen if] = 0.1
 Fraction of Med and High Temp Industrial Heat Shifted to Other Fuels[cement and other nonmetallic minerals 239,hydrogen if] = 0.33
 Fraction of Med and High Temp Industrial Heat Shifted to Other Fuels[iron and steel 241,hydrogen if] = 0.41000000000000003
+Fraction of Low Temp Industrial Heat Shifted to Other Fuels[oil and gas extraction 06] = 0.9
 Fraction of F Gas Substitution Achieved = 1
 Fraction of F Gas Destruction Achieved = 1
 Fraction of F Gas Recovery Achieved = 1
