@@ -1,0 +1,25 @@
+Electricity Source,Max Potential Capacity (MW)
+hard coal,9000000000000.0
+natural gas steam turbine,9000000000000.0
+natural gas combined cycle,9000000000000.0
+nuclear,0.0
+hydro,1778.310502283105
+onshore wind,395377.0
+solar PV,4545000.0
+solar thermal,3098000.0
+biomass,674.8206131767776
+geothermal,159000.0
+petroleum,9000000000000.0
+natural gas peaker,9000000000000.0
+lignite,9000000000000.0
+offshore wind,0.0
+crude oil,0.0
+heavy or residual fuel oil,9000000000000.0
+municipal solid waste,141.12519823169657
+hard coal w CCS,9000000000000.0
+natural gas combined cycle w CCS,9000000000000.0
+biomass w CCS,674.8206131767776
+lignite w CCS,9000000000000.0
+small modular reactor,9000000000000.0
+hydrogen combustion turbine,9000000000000.0
+hydrogen combined cycle,9000000000000.0
