@@ -182,7 +182,7 @@ Percentage Improvement in Eqpt Efficiency Standards above BAU[other manufacturin
 Percentage Improvement in Eqpt Efficiency Standards above BAU[other manufacturing 31T33,petroleum diesel if] = 0.02
 Percentage Improvement in Eqpt Efficiency Standards above BAU[other manufacturing 31T33,heavy or residual fuel oil if] = 0.02
 Percentage Improvement in Eqpt Efficiency Standards above BAU[other manufacturing 31T33,LPG propane or butane if] = 0.02
-Percentage Improvement in Eqpt Efficiency Standards above BAU[energy pipelines and gas processing 352T353,natural gas if] = 0.15
+Percentage Improvement in Eqpt Efficiency Standards above BAU[energy pipelines and gas processing 352T353,natural gas if] = 0.25
 Percentage Improvement in Eqpt Efficiency Standards above BAU[water and waste 36T39,electricity if] = 0.02
 Percentage Improvement in Eqpt Efficiency Standards above BAU[construction 41T43,electricity if] = 0.15
 Percentage Improvement in Eqpt Efficiency Standards above BAU[construction 41T43,natural gas if] = 0.15
@@ -193,10 +193,9 @@ Percent Reduction in Nonenergy Nonagriculture Industry Product Demand[water and 
 Fraction of Methane Capture Opportunities Achieved[oil and gas extraction 06] = 1
 Fraction of Methane Capture Opportunities Achieved[energy pipelines and gas processing 352T353] = 1
 Fraction of Methane Capture Opportunities Achieved[water and waste 36T39] = 0.85
-Fraction of Methane Destruction Opportunities Achieved[oil and gas extraction 06] = 0.35000000000000003
-Fraction of Methane Destruction Opportunities Achieved[energy pipelines and gas processing 352T353] = 0.35000000000000003
+Fraction of Methane Destruction Opportunities Achieved[oil and gas extraction 06] = 1
+Fraction of Methane Destruction Opportunities Achieved[energy pipelines and gas processing 352T353] = 1
 Fraction of Methane Destruction Opportunities Achieved[coal mining 05] = 0.3
 Fraction of Cropland and Rice Measures Achieved = 0.25
 Fraction of CO2 Storage Through Tillage Practices = 0.2
 Fraction of Direct Air Capture Potential Achieved = 0.01
-Policy Implementation Schedule Selector = 5
