@@ -48,12 +48,10 @@ Fraction of Med and High Temp Industrial Heat Shifted to Other Fuels[iron and st
 Fraction of F Gas Substitution Achieved = 0.7000000000000001
 Fraction of F Gas Destruction Achieved = 0.7000000000000001
 Fraction of F Gas Recovery Achieved = 0.7000000000000001
-Fraction of F Gas Inspct Maint Retrofit Achieved[chemicals 20] = 0.7000000000000001
-Fraction of F Gas Inspct Maint Retrofit Achieved[other metals 242] = 0.7000000000000001
-Percentage Improvement in Eqpt Efficiency Standards above BAU[oil and gas extraction 06,electricity if] = 0.05
-Percentage Improvement in Eqpt Efficiency Standards above BAU[oil and gas extraction 06,natural gas if] = 0.05
-Percentage Improvement in Eqpt Efficiency Standards above BAU[oil and gas extraction 06,petroleum diesel if] = 0.05
-Percentage Improvement in Eqpt Efficiency Standards above BAU[oil and gas extraction 06,heavy or residual fuel oil if] = 0.05
+Percentage Improvement in Eqpt Efficiency Standards above BAU[oil and gas extraction 06,electricity if] = 0.13
+Percentage Improvement in Eqpt Efficiency Standards above BAU[oil and gas extraction 06,natural gas if] = 0.13
+Percentage Improvement in Eqpt Efficiency Standards above BAU[oil and gas extraction 06,petroleum diesel if] = 0.13
+Percentage Improvement in Eqpt Efficiency Standards above BAU[oil and gas extraction 06,heavy or residual fuel oil if] = 0.13
 Percentage Improvement in Eqpt Efficiency Standards above BAU[food beverage and tobacco 10T12,electricity if] = 0.15
 Percentage Improvement in Eqpt Efficiency Standards above BAU[food beverage and tobacco 10T12,hard coal if] = 0.15
 Percentage Improvement in Eqpt Efficiency Standards above BAU[food beverage and tobacco 10T12,natural gas if] = 0.15
